@@ -122,11 +122,22 @@ h2:hover{
  .container{
    margin-left: 1rem;
    width: 450px;
+   z-index: 0;
+
  }
  .centerS{
-   padding: 0 30% 0 22%; 
+   padding: 0 30% 0 22%;
  }
 
+ #mid{
+   width: auto;
+   height: 600px;
+   z-index: -1;
+
+ }
+ #text1{
+   height: 0;
+ }
 
 
 
