@@ -127,6 +127,7 @@ h2:hover{
  }
  .centerS{
    padding: 0 30% 0 22%;
+   z-index: 1;
  }
 
  #mid{
